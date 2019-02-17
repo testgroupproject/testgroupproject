@@ -33,8 +33,15 @@ namespace UseDocumentati
         static void Main(string[] args)
         {
             Console.WriteLine(GetZero());
+
             Console.WriteLine(GetZero());
             
+
+            int Zero = GetZero();
+
+
+            Console.WriteLine("AIDE NA DIUNERITE");
+
         }
     }
 }
