@@ -34,6 +34,7 @@ namespace UseDocumentati
         {
             Console.WriteLine(GetZero());
             Console.WriteLine(GetZero());
+            Console.WriteLine("az sum Niki");
             
         }
     }
