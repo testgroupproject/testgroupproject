@@ -35,7 +35,8 @@ namespace UseDocumentati
             Console.WriteLine(GetZero());
             int Zero = GetZero();
 
-            
+
+            Console.WriteLine("AIDE NA DIUNERITE");
         }
     }
 }
