@@ -33,9 +33,18 @@ namespace UseDocumentati
         static void Main(string[] args)
         {
             Console.WriteLine(GetZero());
+            Console.WriteLine("TESTESSS@@@@22222");
+
             Console.WriteLine(GetZero());
             Console.WriteLine("az sum Niki");
             
+
+            int Zero = GetZero();
+
+
+            Console.WriteLine("AIDE NA DIUNERITE");
+
+
         }
     }
 }
