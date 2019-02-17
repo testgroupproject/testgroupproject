@@ -34,6 +34,7 @@ namespace UseDocumentati
         {
             Console.WriteLine(GetZero());
             int Zero = GetZero();
+
             
         }
     }
