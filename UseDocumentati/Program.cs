@@ -33,6 +33,7 @@ namespace UseDocumentati
         static void Main(string[] args)
         {
             Console.WriteLine(GetZero());
+            int Zero = GetZero();
             
         }
     }
