@@ -33,8 +33,7 @@ namespace UseDocumentati
         static void Main(string[] args)
         {
             Console.WriteLine(GetZero());
-            Console.WriteLine("TSST");
-            Console.WriteLine(GetZero());
+            Console.WriteLine("TESTESSS@@@@22222");
             
         }
     }
